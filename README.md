@@ -1,7 +1,7 @@
 # 2024SUG-Data-and-Decision-Making-CBL-5100-01-
 2024 SUG Data and Decision-Making (CBL-5100-01) Assignment and Solutions
 
-## Need Help with SUG Data and Decision-Making (CBL-5100-01) at High Point University?
+## Need Help with SUG Data and Decision-Making (CBL-5100-01)?
 Welcome to my GitHub profile! If you're currently tackling the SUG Data and Decision-Making (CBL-5100-01) course at High Point University and find yourself needing a bit of extra support, you're in the right place.
 
 ## Why Seek Tutoring?
